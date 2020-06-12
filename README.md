@@ -1,7 +1,7 @@
 # Quantar_V24
 Quantar™ V24 framing data 
 
-This is an Microsoft Office XML file, it can be inspected with a text editor but was creaetd to be opened with Microsoft Excel.  
+This is an Microsoft Office XML file, it can be inspected with a text editor but was created to be opened with Microsoft Excel.  
 
 This information was last updated in 2017 with information from a variety of sources, some acknowledged in the credits for SQD as well as some from anonymous contributors.
 It is saved here for posterity.  Please review the SQD README and SQD FAQ for more information.
